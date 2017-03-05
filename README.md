@@ -6,7 +6,7 @@
 #ScreenShot
 
 ##PyQtChart
-<img src="ScreenShot/2.jpg" width="400px" height="300px" /><img src="ScreenShot/2.jpg" width="400px" height="300px" />
+<img src="ScreenShot/2.jpg" />
 
 ##not work
-<img src="ScreenShot/1.jpg" width="400px" height="300px" /><img src="ScreenShot/1.jpg" width="400px" height="300px" />
+<img src="ScreenShot/1.jpg" />
